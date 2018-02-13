@@ -12,11 +12,11 @@ Every week Andrew Ng interviews one of the pioneers in deep learning. I found it
 ## Course Work
 
 ### Course 1: Neuronal Networks and Deep Learning
-- [Python Basics with Numpy](2_1_Python+Basics+With+Numpy+v3.html)
-- [Logistic Regression with a Neural Network mindset](2_2_Logistic+Regression+with+a+Neural+Network+mindset+v3.html)
-- [Planar Data Classification with one Hidden Layer](3_1_Planar+data+classification+with+one+hidden+layer+v4.html)
-- [Building your Neural Network Step by Step](4_1_Building+your+Deep+Neural+Network+-+Step+by+Step+v5.html)
-- [Deep Neural Network Application](4_2_Deep+Neural+Network+-+Application+v3.html)
+- [Python Basics with Numpy](NeuronalNetworksAndDeepLearning/2_1_PythonBasicsWithNumpy/2_1_Python+Basics+With+Numpy+v3.html)
+- [Logistic Regression with a Neural Network mindset](NeuronalNetworksAndDeepLearning/2_2_LogisticRegressionWithANeuralNetworkMindset/2_2_Logistic+Regression+with+a+Neural+Network+mindset+v3.html)
+- [Planar Data Classification with one Hidden Layer](NeuronalNetworksAndDeepLearning/3_1_PlanarDataClassificationWithOneHiddenLayer/3_1_Planar+data+classification+with+one+hidden+layer+v4.html)
+- [Building your Neural Network Step by Step](NeuronalNetworksAndDeepLearning/4_1_BuildingYourNeuralNetworkStep ByStep/4_1_Building+your+Deep+Neural+Network+-+Step+by+Step+v5.html)
+- [Deep Neural Network Application](NeuronalNetworksAndDeepLearning/4_2_DeepNeuralNetworkApplication/4_2_Deep+Neural+Network+-+Application+v3.html)
 
 
 
