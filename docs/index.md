@@ -18,7 +18,8 @@ Every week Andrew Ng interviews one of the pioneers in deep learning. I found it
 - [Building your Neural Network Step by Step](4_1_Building+your+Deep+Neural+Network+-+Step+by+Step+v5.html)
 - [Deep Neural Network Application](4_2_Deep+Neural+Network+-+Application+v3.html)
 
-
+### Course 2: Structuring Machine Learning Projects
+- [Content](2_StructuringMachineLearningProjects.md)
 
 ## Back to sabinem.github.io
 Finished? You want to go back to the [homepage](../)?
