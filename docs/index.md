@@ -7,6 +7,7 @@ This 5 course specialization is taught by Andrew Ng, the founder of Coursera and
 Every week Andrew Ng interviews one of the pioneers in deep learning. I found it especially interesting to hear their opinion on where research is heading to and how they got involved in the field. [Links to the Interviews](links.md)
 
 ## Course Work
+You can find all the work we did in the course as html-jupyther notebooks. It is not always possible to rerun the notebooks themselves though, since I did not always include the data. 
 
 ## Course 1: Neuronal Networks and Deep Learning
 - [Python Basics with Numpy](2_1_Python+Basics+With+Numpy+v3.html)
@@ -30,4 +31,4 @@ Every week Andrew Ng interviews one of the pioneers in deep learning. I found it
 
 ## Course 4: Convolutional Neural Networks
 
-## Course 5:
+## Course 5: Sequence Models
