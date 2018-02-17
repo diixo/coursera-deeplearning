@@ -8,15 +8,26 @@ Every week Andrew Ng interviews one of the pioneers in deep learning. I found it
 
 ## Course Work
 
-### Course 1: Neuronal Networks and Deep Learning
+## Course 1: Neuronal Networks and Deep Learning
 - [Python Basics with Numpy](2_1_Python+Basics+With+Numpy+v3.html)
 - [Logistic Regression with a Neural Network mindset](2_2_Logistic+Regression+with+a+Neural+Network+mindset+v3.html)
 - [Planar Data Classification with one Hidden Layer](3_1_Planar+data+classification+with+one+hidden+layer+v4.html)
 - [Building your Neural Network Step by Step](4_1_Building+your+Deep+Neural+Network+-+Step+by+Step+v5.html)
 - [Deep Neural Network Application](4_2_Deep+Neural+Network+-+Application+v3.html)
 
-### Course 2: Structuring Machine Learning Projects
+## Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+
+- Setting up your Machine Learning Application
+- Regularizing your neural network
+- Setting up your optimization problem
+
+
+## Course 3: Structuring Machine Learning Projects
 - orthogonalization of steps
 - setting your goals
 - human performance as baseline
-- [read more](2_structuringMachineLearningProjects.md)
+[read more](2_structuringMachineLearningProjects.md)
+
+## Course 4: Convolutional Neural Networks
+
+## Course 5:
