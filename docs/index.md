@@ -21,6 +21,3 @@ Every week Andrew Ng interviews one of the pioneers in deep learning. I found it
 - setting your goals
 - human performance as baseline
 - [in detail]
-
-## Back to sabinem.github.io
-Finished? You want to go back to the [homepage](../)?
