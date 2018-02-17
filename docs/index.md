@@ -7,8 +7,6 @@ This 5 course specialization is taught by Andrew Ng, the founder of Coursera and
 ## Interview with the pioneers
 Every week Andrew Ng interviews one of the pioneers in deep learning. I found it especially interesting to hear their opinion on where research is heading to and how they got involved in the field. [Links to the Interviews](links.md)
 
-
-
 ## Course Work
 
 ### Course 1: Neuronal Networks and Deep Learning
@@ -19,8 +17,10 @@ Every week Andrew Ng interviews one of the pioneers in deep learning. I found it
 - [Deep Neural Network Application](4_2_Deep+Neural+Network+-+Application+v3.html)
 
 ### Course 2: Structuring Machine Learning Projects
-- [Content](2_StructuringMachineLearningProjects.md)
+- orthogonalization of steps
+- setting your goals
+- human performance as baseline
+- [in detail]
 
 ## Back to sabinem.github.io
 Finished? You want to go back to the [homepage](../)?
-
