@@ -1,7 +1,6 @@
 # Coursera Deep Learning Spezialisation
 
 ## About
-
 This 5 course specialization is taught by Andrew Ng, the founder of Coursera and one of the pioneers in machine learning. You can notice Andrew Ngs structured mind throughout the course material, which is very focused and well structured. Most algorithms are taught from scratch. Even the the well known Optimizers such as Adam and RMSProb are programmed by students themselves in their exercises.
 
 ## Interview with the pioneers
@@ -20,4 +19,4 @@ Every week Andrew Ng interviews one of the pioneers in deep learning. I found it
 - orthogonalization of steps
 - setting your goals
 - human performance as baseline
-- [in detail]
+- [read more](2_structuringMachineLearningProjects.md)
