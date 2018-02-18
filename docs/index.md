@@ -29,7 +29,7 @@ You can find all the work we did in the course as html-jupyther notebooks. It is
 - setting your goals
 - human performance as baseline
 
-[read more](2_structuringMachineLearningProjects.md)
+[read more](C3_StructuringMLProjects/2_structuringMachineLearningProjects.md)
 
 ## Course 4: Convolutional Neural Networks
 
