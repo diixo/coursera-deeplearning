@@ -4,7 +4,8 @@
 This 5 course specialization is taught by Andrew Ng, the founder of Coursera and one of the pioneers in machine learning. You can notice Andrew Ngs structured mind throughout the course material, which is very focused and well structured. Most algorithms are taught from scratch. Even the the well known Optimizers such as Adam and RMSProb are programmed by students themselves in their exercises.
 
 ## Interview with the pioneers
-Every week Andrew Ng interviews one of the pioneers in deep learning. I found it especially interesting to hear their opinion on where research is heading to and how they got involved in the field. [Links to the Interviews](links.md)
+Every week Andrew Ng interviews one of the pioneers in deep learning. I found it especially interesting to hear their opinion on where research is heading to and how they got involved in the field. 
+- [Links to the Interviews](links.md)
 
 ## Course Work
 You can find all the work we did in the course as html-jupyther notebooks. It is not always possible to rerun the notebooks themselves though, since I did not always include the data.
@@ -32,5 +33,7 @@ You can find all the work we did in the course as html-jupyther notebooks. It is
 [read more](C3_StructuringMLProjects/3_StructuringMachineLearningProjects.md)
 
 ## Course 4: Convolutional Neural Networks
+(not yet done)
 
 ## Course 5: Sequence Models
+(not yet done)
