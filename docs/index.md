@@ -3,7 +3,7 @@
 ## About
 This 5 course specialization is taught by Andrew Ng, the founder of Coursera and one of the pioneers in machine learning. You can notice Andrew Ngs structured mind throughout the course material, which is very focused and well structured. Most algorithms are taught from scratch. Even the the well known Optimizers such as Adam and RMSProb are programmed by students themselves in their exercises.
 
-### Course Work
+## Course Work
 You can find all the work we did in the course as html-jupyther notebooks. It is not always possible to rerun the notebooks themselves though, since I did not always include the data.
 
 ### Course 1: Neuronal Networks and Deep Learning
