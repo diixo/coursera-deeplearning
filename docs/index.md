@@ -32,7 +32,3 @@ In this course their was no practical work, only some quizzes
 
 ### Course 5: Sequence Models
 (not yet done)
-
-### Interview with the pioneers
-Every week Andrew Ng interviews one of the pioneers in deep learning. I found it especially interesting to hear their opinion on where research is heading to and how they got involved in the field. 
-- [Links to the Interviews](links.md)
